@@ -1,6 +1,7 @@
 # Project Title
 
-This is a Summer Project written
+This is a Summer Project written in July 2019. Further details concerning the
+code will be posted
 
 ## Getting Started
 
@@ -30,8 +31,8 @@ will be read and considered
 
 ## Authors
 
-* **Benjamin Rees** - *Initial work* - [BenWRees](https://github.com/BenWRees)
-* **Anton Farmar** - *Initial work* - [AJFarmar](https://github.com/AJFarmar)
+* **Benjamin Rees** - *Programming* - [BenWRees](https://github.com/BenWRees)
+* **Anton Farmar** - *Programming* - [AJFarmar](https://github.com/AJFarmar)
 
 ## License
 
