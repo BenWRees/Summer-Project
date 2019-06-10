@@ -1,0 +1,39 @@
+name:                Summer-Project
+version:             0.1.0.0
+github:              "BenWRees/Summer-Project"
+license:             GNU General Public Licence
+author:              Ben Rees, Anton Farmar
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+description:         Please see the README on GitHub at <https://github.com/BenWRees/Summer-Project#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+
+executables:
+  Summer-Project-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - Summer-Project
+
+tests:
+  Summer-Project-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - Summer-Project
