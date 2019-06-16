@@ -1,7 +1,5 @@
 # Project Title
-
-This is a Summer Project written in July 2019. Further details concerning the
-code will be posted
+The aim of this Repo is to replicate a simple algebraic system that can expand and simplify polynomials as well as possibly solve polynomials, this will be written in Haskell
 
 ## Getting Started
 
